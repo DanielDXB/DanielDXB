@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel - [Who I am?][website]
 
-###I'm a Student, Developer and Designer!
+## I'm a Student, Developer and Designer!
 <br />
 -🔎 I'm currently learning everything
 <br />
