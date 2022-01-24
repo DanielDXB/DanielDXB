@@ -13,7 +13,7 @@
 [<img align="left" alt="danielbolontoc.com" src="globe.png" />][website]
 [<img align="left" alt="Daniel Bolontoc | Twitter" src="twitter.png" />][twitter]
 [<img align="left" alt="Daniel Bolontoc | LinkedIn" src="linkedin.png" />][linkedin]
-[<img align="left" alt="Daniel Bolontoc | Instagram" src="instagram" />][instagram]
+[<img align="left" alt="Daniel Bolontoc | Instagram" src="instagram.png" />][instagram]
 
 <br />
 
