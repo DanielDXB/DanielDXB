@@ -1,8 +1,11 @@
 ### Hi there, I'm Daniel - [Who I am?][website]
 
 ##I'm a Student, Developer and Designer!
+<br />
 -🔎 I'm currently learning everything
+<br />
 -🤝 I'm looking to collaborate with other developers
+<br />
 -🎯 2022 Goal: Become an employed developer
 
 ### Connect with me:
