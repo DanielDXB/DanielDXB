@@ -26,7 +26,7 @@
 <img align="left" alt="JavaScript" src="javascript.png" />
 <img align="left" alt="React" src="react.png" />
 <img align="left" alt="Node.js" src="node.png" />
-<img align="left" alt="MongoDB" src="mongo.png" />
+<img align="left" alt="MongoDB" src="mongodb.png" />
 <img align="left" alt="GitHub" src="github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
