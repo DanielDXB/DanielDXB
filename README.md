@@ -6,7 +6,9 @@
 <br />
 -🤝 I'm looking to collaborate with other developers
 <br />
--🎯 2022 Goal: Become an employed developer
+-🎯 2022 Goal: Become an employed developer ✔ (achieved 9 March 2022)
+<br />
+-💻 Intern at Deutsche Bank Global Technology
 
 ### Connect with me:
 
