@@ -8,7 +8,7 @@
 <br />
 -🎯 2022 Goal: Become an employed developer ✔ (achieved 9 March 2022)
 <br />
--💻 Intern at Deutsche Bank Global Technology
+-💻 Software Developer at Deutsche Bank Global Technology
 
 ### Connect with me:
 
