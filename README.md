@@ -54,4 +54,4 @@ Skills:
 
 Overview:
 -------------------------------------
-<a href="http://www.github.com/DanielDXB"><img src="https://activity-graph.herokuapp.com/graph?username=DanielDXB&bg_color=000000&color=3382ed&line=ef4444&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/DanielDXB"><img src="https://activity-graph.herokuapp.com/graph?username=DanielDXB&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
