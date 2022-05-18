@@ -10,6 +10,10 @@ Full-Stack Developer at Deutsche Bank
 * 🧠  I'm learning WEB3
 * 🤝  I'm open to collaborating on WEB3 projects
 
+Socials:
+-------------------------------------
+<p align="left"> <a href="https://www.facebook.com/daniel.bolontoc.50" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/DanielDXB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/danielbolontoc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/daniel-bolontoc-8a0982207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/BolontocDaniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 Skills:
 -------------------------------------
 ### Core:
