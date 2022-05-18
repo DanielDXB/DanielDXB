@@ -51,3 +51,7 @@ Skills:
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+
+### Badges
+
+<a href="http://www.github.com/DanielDXB"><img src="https://activity-graph.herokuapp.com/graph?username=DanielDXB&bg_color=000000&color=3382ed&line=ef4444&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
