@@ -1,9 +1,6 @@
 Hi 👋 My name is Daniel - [Daniel Who?!?](https://danieldxb.github.io/danielbolontoc_com/#)
 =======================
 
-Full-Stack Developer at Deutsche Bank
--------------------------------------
-
 * 🌍  I'm based in Bucharest, Romania
 * 🖥️  See my portfolio at [danielbolontoc.com](http://danieldxb.github.io/danielbolontoc_com/#)
 * ✉️  You can contact me at [danielbolontoc.2001@gmail.com](mailto:danielbolontoc.2001@gmail.com)
