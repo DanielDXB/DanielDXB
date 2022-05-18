@@ -10,7 +10,8 @@ Full-Stack Developer at Deutsche Bank
 * 🧠  I'm learning WEB3
 * 🤝  I'm open to collaborating on WEB3 projects
 
-### Skills:
+Skills:
+-------------------------------------
 
 ### Core:
 <p align="left">
