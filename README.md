@@ -5,7 +5,7 @@ Hi 👋 My name is Daniel - [Daniel Who?!?](https://danieldxb.github.io/danielbo
 * 🖥️  See my portfolio at [danielbolontoc.com](http://danieldxb.github.io/danielbolontoc_com/#)
 * ✉️  You can contact me at [danielbolontoc.2001@gmail.com](mailto:danielbolontoc.2001@gmail.com)
 * 🧠  I'm learning WEB3
-* 🤝  I'm open to collaborating on WEB3 projects
+* 🤝  I'm open for collaboration
 
 Socials:
 -------------------------------------
