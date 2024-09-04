@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel - [Daniel Who?!?](https://danieldxb.github.io/danielbo
 * 🌍  I'm based in Bucharest, Romania
 * 🖥️  See my portfolio at [danielbolontoc.com](http://danieldxb.github.io/danielbolontoc_com/#)
 * ✉️  You can contact me at [danielbolontoc.2001@gmail.com](mailto:danielbolontoc.2001@gmail.com)
-* 🧠  I'm learning C# & Game Development. 
+* 🧠  I'm learning JAVA & Spring Framework. 
 * 🤝  I'm open for collaboration
 
 Socials:
